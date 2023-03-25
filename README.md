@@ -58,6 +58,6 @@ The website is deployed to Netlify and can be accessed at the following link: ht
 
 Contributions to "Planet Explorer" are always welcome. If you'd like to contribute, please fork the repository and create a pull request.
 
-## Licensce
+## License
 
 "Planet Explorer" is released under the GNU General Public License v3.0
